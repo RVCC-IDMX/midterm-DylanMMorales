@@ -1,0 +1,56 @@
+body {
+    font-family:Roboto;
+    background-color:#24d439;
+    color: black;
+
+}
+
+/* Introduction */
+
+h1{
+    font-family:"Grechen Fuemen&family";
+    text-align:center;
+    font-size:40pt;
+    border: 12px solid #000000;
+    margin-bottom:2rem;
+    color:white
+}
+
+/* img */
+
+#gallery img{
+    max-width:100%;
+}
+
+#gallery figure {
+    text-align: center;
+}
+
+
+
+/* Introduction Paragraph */
+#Intro {
+    border: 12px solid #000000;
+    margin-bottom:2rem;
+    color:white;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+
+#Intro div {
+    padding:3rem;
+    max-width:30;
+    margin:0 auto;
+}
+
+/* My biggest Projects */
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+    font-size:32pt;
+    border: 12px solid #000000;
+    margin-bottom:2rem;
+    color: white;
+}
