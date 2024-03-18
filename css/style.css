@@ -50,7 +50,37 @@ h2{
     font-family:'Courier New', Courier, monospace;
     text-align:center;
     font-size:32pt;
+    
+    color: Black;
+}
+
+h3, h4, h5 {
+    font-family:monospace;
+    text-align:left;
+    font-size:20pt;
+    color:black;
+}
+
+/* My Biggest Project Paragraphs */
+#MBP {
     border: 12px solid #000000;
     margin-bottom:2rem;
-    color: white;
+    color:white;
+    font-family: cursive;
+    font-size: 20px;
+
 }
+
+/* My Biggest Project Paragraphs */
+#Comments {
+    border: 12px solid #000000;
+    margin-bottom:2rem;
+    color:white;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+
+
+
+
