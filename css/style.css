@@ -1,6 +1,6 @@
 body {
     font-family:Roboto;
-    background-color:#24d439;
+    background-color:#0774149d;
     color: black;
 
 }
@@ -80,6 +80,35 @@ h3, h4, h5 {
     font-size: 20px;
 
 }
+
+/* Reviews */
+
+
+h6{
+    font-family:monospace;
+    text-align:center;
+    font-size:20pt;
+    color:black;
+}
+
+
+#Reviews {
+   
+    border: 12px solid #000000;
+    margin-bottom:20rem;
+    color:white;
+    font-family: cursive;
+    font-size: 20px;
+    
+
+}
+
+#Rating {
+    color: rgb(220, 220, 18);
+}
+
+
+
 
 
 
